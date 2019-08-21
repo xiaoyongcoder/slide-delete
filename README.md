@@ -4,7 +4,9 @@
 
 本项目只是一个左滑删除的思路，目前记录下来，以便以后学习回顾，后期可扩展修改。
 
-clone项目，有演示demo。
+clone项目，查看项目代码。
+
+请在移动端模式下查看，[演示demo](https://xiaoyongcoder.github.io/slide-delete) 
 
 ## Project setup
 ```
