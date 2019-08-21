@@ -4,6 +4,8 @@
 
 本项目只是一个左滑删除的思路，记录下来，以便以后学习回顾。
 
+clone，本地跑一下项目，有演示demo。
+
 ## Project setup
 ```
 npm install
