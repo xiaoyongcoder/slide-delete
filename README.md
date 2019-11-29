@@ -6,7 +6,7 @@
 
 clone项目，查看项目代码。
 
-请在移动端模式下查看，[演示demo](https://xiaoyongcoder.github.io/slide-delete) 
+**在PC端浏览器打开时，请在移动端模式**下查看，[演示demo](https://xiaoyongcoder.github.io/slide-delete) 
 
 ## Project setup
 ```
